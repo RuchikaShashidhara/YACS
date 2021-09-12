@@ -1,4 +1,4 @@
-# Yet Another Centralized Scheduler (YACS)
+# Yet Another Centralized Scheduler - YACS
 
 [![Documentation Status](https://readthedocs.org/projects/yacs/badge/?version=latest)](https://yacs.readthedocs.io/en/latest/?badge=latest)
 
@@ -95,3 +95,5 @@ By default the logs are stored in the directory in which the master / worker is 
 2. [Sparsh Temani](https://github.com/temanisparsh)
 3. [Aditi Ahuja](https://github.com/metonymic-smokey)
 4. [Ruchika Shashidhara](https://github.com/RuchikaShashidhara)
+
+
